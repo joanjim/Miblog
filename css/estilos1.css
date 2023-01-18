@@ -19,3 +19,18 @@ body{
 #contenerdor1 h1{
     font-size: 20px;
 }
+
+#titulo {
+    background-color: rgb(212, 52, 52);
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#titulo #tituloA{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}

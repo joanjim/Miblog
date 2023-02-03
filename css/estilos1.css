@@ -9,7 +9,7 @@ body{
 }
 
 #contenerdor1{
-    height: 80vh;
+    height: 90vh;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -50,5 +50,5 @@ body{
 }
 
 #IMGTierra{
-    width: 33%;
+    width: 70%;
 }

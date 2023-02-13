@@ -6,7 +6,7 @@ Repositorio para el curso de Git y GitHub.
 - Lo más importante es que se aprendió a entender cómo funciona Git y GitHub.
 
 # Otros Detalles
-
+- Creado por Joan
 ![](https://i.imgur.com/nRRZHGr.jpeg)
 
 <p align="center">

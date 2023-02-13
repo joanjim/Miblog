@@ -7,6 +7,7 @@ Repositorio para el curso de Git y GitHub.
 
 # Otros Detalles
 - Creado por Joan
+- Incluye varios ejemplos
 ![](https://i.imgur.com/nRRZHGr.jpeg)
 
 <p align="center">
